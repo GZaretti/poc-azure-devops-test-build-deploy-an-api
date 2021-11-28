@@ -4,6 +4,73 @@
     "/home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/test/ASimpleAPI.Test/ASimpleAPI.Test.csproj": {}
   },
   "projects": {
+    "/home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/src/ASimpleAPI/ASimpleAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/src/ASimpleAPI/ASimpleAPI.csproj",
+        "projectName": "ASimpleAPI",
+        "projectPath": "/home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/src/ASimpleAPI/ASimpleAPI.csproj",
+        "packagesPath": "/home/z1arch/.nuget/packages/",
+        "outputPath": "/home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/src/ASimpleAPI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/z1arch/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.0, 6.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/test/ASimpleAPI.Test/ASimpleAPI.Test.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -25,7 +92,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/src/ASimpleAPI/ASimpleAPI.csproj": {
+                "projectPath": "/home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/src/ASimpleAPI/ASimpleAPI.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

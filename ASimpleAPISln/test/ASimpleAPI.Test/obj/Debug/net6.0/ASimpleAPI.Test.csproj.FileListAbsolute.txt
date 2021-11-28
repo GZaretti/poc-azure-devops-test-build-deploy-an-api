@@ -96,3 +96,15 @@
 /home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/test/ASimpleAPI.Test/obj/Debug/net6.0/ref/ASimpleAPI.Test.dll
 /home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/test/ASimpleAPI.Test/obj/Debug/net6.0/ASimpleAPI.Test.pdb
 /home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/test/ASimpleAPI.Test/obj/Debug/net6.0/ASimpleAPI.Test.genruntimeconfig.cache
+/home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/test/ASimpleAPI.Test/bin/Debug/net6.0/CoverletSourceRootsMapping
+/home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/test/ASimpleAPI.Test/bin/Debug/net6.0/ASimpleAPI.deps.json
+/home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/test/ASimpleAPI.Test/bin/Debug/net6.0/ASimpleAPI.runtimeconfig.json
+/home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/test/ASimpleAPI.Test/bin/Debug/net6.0/appsettings.Development.json
+/home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/test/ASimpleAPI.Test/bin/Debug/net6.0/appsettings.json
+/home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/test/ASimpleAPI.Test/bin/Debug/net6.0/ASimpleAPI
+/home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/test/ASimpleAPI.Test/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/test/ASimpleAPI.Test/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/test/ASimpleAPI.Test/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/test/ASimpleAPI.Test/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/test/ASimpleAPI.Test/bin/Debug/net6.0/ASimpleAPI.dll
+/home/z1arch/git/poc-azure-devops-test-build-deploy-an-api/ASimpleAPISln/test/ASimpleAPI.Test/bin/Debug/net6.0/ASimpleAPI.pdb

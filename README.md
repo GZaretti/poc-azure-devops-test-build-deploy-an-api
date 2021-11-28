@@ -11,12 +11,12 @@ This is my first PoC based on Les Jackson's example. I develope this PoC for thi
 
 # Tools
     * VS Code (free)
-    * .Net SDK (free)
+    * .Net, 6.0.100 Linux-version (free)
     * ArchLinux (free)
     * Postman or Insomnia (free)
     * GitHub, Azure & Azure DevOps Accounts (free)
 
-# L'ets Go
+# Let's Go
 
 1. solution directory : [ASimpleAPISln](ASimpleAPISln)
     * source code : [src](ASimpleAPISln/src)
